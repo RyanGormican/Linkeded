@@ -1,1 +1,2 @@
 # Linkeded
+Linkeded is a
